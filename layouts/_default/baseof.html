@@ -6,7 +6,7 @@
 	This Hugo theme is licensed under the Creative Commons Attribution 3.0 License.
 -->
 <html>
-	
+
 	{{ partial "head" . }}
 
 	<body class="is-preload">
@@ -16,9 +16,9 @@
             {{- block "main" . }}{{- end }}
 		<!-- Wrapper -->
 		</div>
-		
+
 		{{ template "_internal/google_analytics.html" . }}
-		{{ template "_internal/google_analytics_async.html" . }}	
+		{{ template "_internal/google_analytics_async.html" . }}
 		{{ partial "scripts" . }}
 
 	</body>

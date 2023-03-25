@@ -2,7 +2,7 @@
 ## Basic Configuration
 ## -----------------------------------------------
 
-title = "Hugo Story"
+title = "We're Getting Married!"
 copyright = "{year}"
 
 ## -----------------------------------------------
@@ -17,8 +17,8 @@ baseURL = "/"
 publishDir = "public"
 
 # Remote
-#baseURL = "https://caressofsteel.github.io/demos/hugo/hugo-story/"
-#publishDir = "//centos/sites/hugodev/hugostory/"
+#baseURL = "https://jaammi.wedding/"
+#publishDir = "/"
 
 ## -----------------------------------------------
 ## Hugo Built-in Features
@@ -37,9 +37,9 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
   favicon = true
 
 [Params.social]
-  github = "https://github.com/caressofsteel/"
-  twitter = "https://twitter.com/caressofsteel_"
-  email = "caressofsteel@protonmail.com"
+  github = "https://github.com/swibrow/"
+  twitter = ""
+  email = "contact@jaammi.wedding"
   instagram = "https://instagram.com"
   linkedin = "https://linkedin.com"
   telegram = "https://telegram.org"
